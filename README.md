@@ -1,7 +1,19 @@
 # Obstacle-Avoidance-Custom-Robot
 
 ## Overview
-The ROS package gives the URDF custom robot the ability to move while avoiding obstacles in its path.The simulation is done in gazebo with a custom made fully enclosed world. There is also an option to control the Robot using keyboard input and the sensor data is shown on the terminal.
+This ROS package gives a URDF custom robot the ability to move while avoiding obstacles in its path.The simulation is done in gazebo with a custom made fully enclosed world. There is also an option to control the Robot using keyboard input and the sensor data is shown on the terminal.
+
+## Visualization of the Project
+### Autonomous Navigation on ROS and Gazebo
+![](Autonomous_Nav.gif)
+  
+### Tele-Op Navigation on ROS and Gazebo with a keyboard
+![](TeleOp.gif)
+
+## Youtube Links for the videos
+
+* https://www.youtube.com/watch?v=v5FFh2v3XLY
+* https://www.youtube.com/watch?v=c1M12yejnbY
 
 ## Dependencies
 
